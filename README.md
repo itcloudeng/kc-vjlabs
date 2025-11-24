@@ -138,17 +138,4 @@ These labs cover all CKA exam domains:
 - **[Killercoda Creator Docs](https://killercoda.com/creators)** - Platform documentation
 - **[CKA Curriculum](https://github.com/cncf/curriculum)** - Official exam topics
 
----
-
-## 💡 Support
-
-**Enjoying these free CKA labs?**
-
-- ⭐ Star this repository
-- 🔔 [Subscribe on YouTube](https://youtube.com/channel/UC2ckWW5aAtV0KISxk6g8rCg?sub_confirmation=1)
-- ☕ [Buy me a coffee](https://buymeacoffee.com/vjaarohi)
-
----
-
-**Happy Learning! Good luck on your CKA exam! 🚀**
 
