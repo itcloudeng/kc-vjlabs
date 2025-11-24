@@ -231,28 +231,9 @@ All labs cover official CKA exam topics:
 ✅ **Verification scripts** for each step
 ✅ **Proper backend selection** per lab type
 
-## 🤝 Comparison with Killercoda Examples
-
-Our format matches [killercoda/scenario-examples](https://github.com/killercoda/scenario-examples):
-
-| **Feature** | **Our Labs** | **Killercoda Examples** |
-|-------------|-------------|------------------------|
-| index.json | ✅ Yes | ✅ Yes |
-| Multi-step | ✅ Yes (2-3 steps) | ✅ Yes |
-| Verification | ✅ verify.sh per step | ✅ verify.sh per step |
-| Background setup | ✅ background.sh | ✅ background.sh |
-| Intro/Finish | ✅ Yes | ✅ Yes |
-
 ## 📖 Additional Resources
 
 - [Killercoda Creator Docs](https://killercoda.com/creators)
 - [Scenario Examples Repo](https://github.com/killercoda/scenario-examples)
 - [Kubernetes Docs](https://kubernetes.io/docs/)
 - [CKA Exam Curriculum](https://github.com/cncf/curriculum)
-
----
-
-Last updated: 2025-11-08
-Repository: killercoda-scenarios
-Format version: Killercoda multi-step
-Status: Ready for upload to killercoda.com
