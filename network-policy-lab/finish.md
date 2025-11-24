@@ -54,8 +54,5 @@ Want more practice? Try these challenges:
 - [NetworkPolicy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 - [CKA Exam Curriculum](https://github.com/cncf/curriculum)
 
----
-
-> 💡 **Enjoyed this lab?** Please [subscribe to my YouTube channel](https://youtube.com/channel/UC2ckWW5aAtV0KISxk6g8rCg?sub_confirmation=1) and [buy me a coffee](https://buymeacoffee.com/vjaarohi) ☕ to support more free CKA labs!
 
 Thank you for practicing with this lab. Good luck on your CKA exam! 🚀
