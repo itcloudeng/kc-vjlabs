@@ -9,5 +9,3 @@ You've completed the CKA Practice: NodePort Service lab!
 - CKA exam-relevant skills
 
 Thank you for practicing! Good luck on your CKA exam! 🚀
-
-> 💡 **Support free CKA labs:** [Subscribe on YouTube](https://youtube.com/channel/UC2ckWW5aAtV0KISxk6g8rCg?sub_confirmation=1) | [Buy me a coffee](https://buymeacoffee.com/vjaarohi) ☕
