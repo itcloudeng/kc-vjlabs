@@ -141,11 +141,11 @@ bash step2/verify.sh  # Check if correct
 
 Killercoda's multi-step format provides:
 
-✅ **Progressive learning** - Break complex tasks into manageable steps
-✅ **Automated verification** - Check work at each step before proceeding
-✅ **Interactive feedback** - Know immediately if you did it right
-✅ **Guided experience** - Clear instructions at each stage
-✅ **CKA exam prep** - Practice with verification like the real exam
+- ✅ **Progressive learning** - Break complex tasks into manageable steps
+- ✅ **Automated verification** - Check work at each step before proceeding
+- ✅ **Interactive feedback** - Know immediately if you did it right
+- ✅ **Guided experience** - Clear instructions at each stage
+- ✅ **CKA exam prep** - Practice with verification like the real exam
 
 ## 🔧 Backend Configurations
 
